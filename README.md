@@ -1,4 +1,4 @@
-# Git
+# Git y Github
 
 ## Comprobar de que Git este instalado
 
@@ -16,7 +16,7 @@ git config --global user.email "example@example.com"
 
 ## Crear un repositorio Github
 
-##Inicializar git
+## Inicializar git
 
 ```
 git init
