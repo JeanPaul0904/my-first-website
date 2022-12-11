@@ -41,3 +41,9 @@ git add --all
 git commit -m "my first commit"
 git push origin main
 ```
+
+## Revisar el status
+
+```
+git status
+```
