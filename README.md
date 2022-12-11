@@ -16,7 +16,7 @@ git config --global user.email "example@example.com"
 
 ## Crear un repositorio Github
 
-##Inicializar git
+## Inicializar git
 
 ```
 git init
